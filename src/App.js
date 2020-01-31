@@ -3,6 +3,7 @@ import axios from 'axios';
 import Movie from './Movie';
 import './App.css';
 
+// 커밋 테스트 주석
 class App extends React.Component {
   state = {
     isLoading: true,
